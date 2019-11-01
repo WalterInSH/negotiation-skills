@@ -18,3 +18,5 @@ Coursera上经典的课程，中文译名《成功的谈判：基本策略与技
 可以下载[xmind原始版本](Getting-More-知识点总结.xmind)和[PNG](Getting-More-知识点总结.png)版本。
 
 ### Getting to Yes
+
+![Positional-Bargaining-VS-Principled-Negotiation](Positional-Bargaining-VS-Principled-Negotiation.jpg)
