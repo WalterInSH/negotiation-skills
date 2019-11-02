@@ -19,4 +19,12 @@ Coursera上经典的课程，中文译名《成功的谈判：基本策略与技
 
 ### Getting to Yes
 
+《Getting to Yes》中文译名《谈判力》，是一本硬核的谈判书籍。核心是原则谈判法，因为作者Fisher教授生前在哈佛大学任教，这个方法也被叫做哈佛谈判法(The Harvard Approach)。
+
+>There is a third way to negotiate, a way neither hard nor soft, but rather both hard and soft. The method of principled negotiation developed at the Harvard Negotiation Project is to decide issues on their merits rather than through a haggling process focused on what each side says it will and won’t do. It suggests that you look for mutual gains whenever possible, and that where your interests conflict, you should insist that the result be based on some fair standards independent of the will of either side. The method of principled negotiation is hard on the merits, soft on the people. It employs no tricks and no posturing. Principled negotiation shows you how to obtain what you are entitled to and still be decent. It enables you to be fair while protecting you against those who would take advantage of your fairness.
+
+我之所以喜欢原则谈判法，不仅仅因为它是一个谈判方法，可以引导我解决冲突，保护自己的利益。也是因为它让我可以成为一个善良的人。
+
+通过对比软、硬两种谈判风格，原则谈判法主要特点如红字所示。
+
 ![Positional-Bargaining-VS-Principled-Negotiation](Positional-Bargaining-VS-Principled-Negotiation.jpg)
